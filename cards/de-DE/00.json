@@ -1,0 +1,4374 @@
+[
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0001",
+      "locale": "de-DE",
+      "sentence": "Wir bitten den Arzt um Hilfe.",
+      "cloze": "bitten",
+      "answer": "bitten",
+      "accepted_answers": [],
+      "lemma": "bitten",
+      "meaning": "ask someone for something",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "bittet",
+        "preterite_3sg": "bat",
+        "participle": "gebeten",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Bitten takes a person in the accusative and um plus the accusative for the thing requested.",
+      "pronunciation": "Target form bitten [ˈbɪtən]: stressed short lax [ɪ], followed by [t] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0002",
+      "locale": "de-DE",
+      "sentence": "Wir bieten kostenlose Hilfe.",
+      "cloze": "bieten",
+      "answer": "bieten",
+      "accepted_answers": [],
+      "lemma": "bieten",
+      "meaning": "offer",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "bietet",
+        "preterite_3sg": "bot",
+        "participle": "geboten",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Bieten is the first-person plural present form; kostenlose Hilfe is its accusative object.",
+      "pronunciation": "Target form bieten [ˈbiːtən]: stressed long tense [iː], followed by [t] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0003",
+      "locale": "de-DE",
+      "sentence": "Die Stadt hat einen großen Bahnhof.",
+      "cloze": "Stadt",
+      "answer": "Stadt",
+      "accepted_answers": [],
+      "lemma": "Stadt",
+      "meaning": "city or town",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Städte"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Stadt [ʃtat]: short lax [a], with final [t]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0004",
+      "locale": "de-DE",
+      "sentence": "Der Staat baut neue Schulen.",
+      "cloze": "Staat",
+      "answer": "Staat",
+      "accepted_answers": [],
+      "lemma": "Staat",
+      "meaning": "state",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Staaten"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Staat [ʃtaːt]: long [aː], with final [t]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0005",
+      "locale": "de-DE",
+      "sentence": "Bitte gib mir das Salz.",
+      "cloze": "Bitte",
+      "answer": "Bitte",
+      "accepted_answers": [],
+      "lemma": "bitte",
+      "meaning": "please",
+      "part_of_speech": "particle"
+    },
+    "language_specific": {
+      "pronunciation": "Target form Bitte [ˈbɪtə]: stressed short lax [ɪ], followed by [t] and an unstressed schwa.",
+      "usage": "Bitte makes the request polite."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0006",
+      "locale": "de-DE",
+      "sentence": "Das Bild hängt an der Wand.",
+      "cloze": "Bild",
+      "answer": "Bild",
+      "accepted_answers": [],
+      "lemma": "Bild",
+      "meaning": "picture",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Bilder"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Bild [bɪlt]: short lax [ɪ]; final d is pronounced [t]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0007",
+      "locale": "de-DE",
+      "sentence": "Wir spielen im Garten Karten.",
+      "cloze": "spielen",
+      "answer": "spielen",
+      "accepted_answers": [],
+      "lemma": "spielen",
+      "meaning": "play",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "spielt",
+        "preterite_3sg": "spielte",
+        "participle": "gespielt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "pronunciation": "Target form spielen [ˈʃpiːlən]: stressed long tense [iː], followed by [l] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0008",
+      "locale": "de-DE",
+      "sentence": "Das Kind liest ein Buch.",
+      "cloze": "liest",
+      "answer": "liest",
+      "accepted_answers": [],
+      "lemma": "lesen",
+      "meaning": "reads",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "liest",
+        "preterite_3sg": "las",
+        "participle": "gelesen",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third person singular present of lesen.",
+      "pronunciation": "Target form liest [liːst]: long tense [iː], followed by [st]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0009",
+      "locale": "de-DE",
+      "sentence": "Meine Schwester sitzt am Fenster.",
+      "cloze": "sitzt",
+      "answer": "sitzt",
+      "accepted_answers": [],
+      "lemma": "sitzen",
+      "meaning": "sits",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "sitzt",
+        "preterite_3sg": "saß",
+        "participle": "gesessen",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third person singular present of sitzen.",
+      "pronunciation": "Target form sitzt [zɪtst]: short lax [ɪ], followed by [tst]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0010",
+      "locale": "de-DE",
+      "sentence": "Das Baby schläft im Bett.",
+      "cloze": "Bett",
+      "answer": "Bett",
+      "accepted_answers": [],
+      "lemma": "Bett",
+      "meaning": "bed",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Betten"
+      },
+      "grammar": "Dative singular after in for a location; im combines in and dem.",
+      "pronunciation": "Target form Bett [bɛt]: short lax [ɛ], followed by [t]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0011",
+      "locale": "de-DE",
+      "sentence": "Der See liegt hinter dem Haus.",
+      "cloze": "See",
+      "answer": "See",
+      "accepted_answers": [],
+      "lemma": "See",
+      "meaning": "lake",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Seen"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form See [zeː]: long tense [eː], with initial voiced [z]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0012",
+      "locale": "de-DE",
+      "sentence": "Das Meer ist heute ruhig.",
+      "cloze": "Meer",
+      "answer": "Meer",
+      "accepted_answers": [],
+      "lemma": "Meer",
+      "meaning": "sea",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Meere"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Meer [meːɐ̯]: long tense [eː] followed by vocalized r."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0013",
+      "locale": "de-DE",
+      "sentence": "Der Kaffee ist noch heiß.",
+      "cloze": "Kaffee",
+      "answer": "Kaffee",
+      "accepted_answers": [],
+      "lemma": "Kaffee",
+      "meaning": "coffee",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Kaffees"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Kaffee [kaˈfeː]: final stress and long tense [eː]; the first vowel is short [a]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0014",
+      "locale": "de-DE",
+      "sentence": "Der Bus kommt gleich.",
+      "cloze": "Bus",
+      "answer": "Bus",
+      "accepted_answers": [],
+      "lemma": "Bus",
+      "meaning": "bus",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Busse"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Bus [bʊs]: short lax [ʊ], followed by voiceless [s]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0015",
+      "locale": "de-DE",
+      "sentence": "Mein Bruder sucht seinen Schlüssel.",
+      "cloze": "sucht",
+      "answer": "sucht",
+      "accepted_answers": [],
+      "lemma": "suchen",
+      "meaning": "looks for",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "sucht",
+        "preterite_3sg": "suchte",
+        "participle": "gesucht",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Suchen takes the thing sought in the accusative.",
+      "pronunciation": "Target form sucht [zuːxt]: long tense [uː], followed by [x] and [t]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0016",
+      "locale": "de-DE",
+      "sentence": "Die Sonne scheint ins Zimmer.",
+      "cloze": "Sonne",
+      "answer": "Sonne",
+      "accepted_answers": [],
+      "lemma": "Sonne",
+      "meaning": "sun",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Sonnen"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Sonne [ˈzɔnə]: stressed short lax [ɔ], followed by [n] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0017",
+      "locale": "de-DE",
+      "sentence": "Wir wohnen nahe am Bahnhof.",
+      "cloze": "wohnen",
+      "answer": "wohnen",
+      "accepted_answers": [],
+      "lemma": "wohnen",
+      "meaning": "live or reside",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wohnt",
+        "preterite_3sg": "wohnte",
+        "participle": "gewohnt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "pronunciation": "Target form wohnen [ˈvoːnən]: stressed long tense [oː], followed by [n] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0018",
+      "locale": "de-DE",
+      "sentence": "Der Mann wartet vor der Tür.",
+      "cloze": "Mann",
+      "answer": "Mann",
+      "accepted_answers": [],
+      "lemma": "Mann",
+      "meaning": "man",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Männer"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Mann [man]: short lax [a], followed by [n]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0019",
+      "locale": "de-DE",
+      "sentence": "Ich fahre mit der Bahn.",
+      "cloze": "Bahn",
+      "answer": "Bahn",
+      "accepted_answers": [],
+      "lemma": "Bahn",
+      "meaning": "train or railway",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Bahnen"
+      },
+      "grammar": "Dative singular after mit; mit der Bahn means by train.",
+      "pronunciation": "Target form Bahn [baːn]: long [aː], followed by [n]; h is silent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0020",
+      "locale": "de-DE",
+      "sentence": "Anna und Ben sind ein Paar.",
+      "cloze": "Paar",
+      "answer": "Paar",
+      "accepted_answers": [],
+      "lemma": "Paar",
+      "meaning": "couple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Paare"
+      },
+      "grammar": "Nominative singular predicate noun after sein.",
+      "pronunciation": "Target form Paar [paːɐ̯]: long [aː] followed by vocalized r."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0021",
+      "locale": "de-DE",
+      "sentence": "Wir füllen die Flasche mit Wasser.",
+      "cloze": "füllen",
+      "answer": "füllen",
+      "accepted_answers": [],
+      "lemma": "füllen",
+      "meaning": "fill",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "füllt",
+        "preterite_3sg": "füllte",
+        "participle": "gefüllt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Füllen takes the container in the accusative and mit plus the dative for its contents.",
+      "pronunciation": "Target form füllen [ˈfʏlən]: stressed short lax rounded [ʏ], followed by [l] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0022",
+      "locale": "de-DE",
+      "sentence": "Wir fühlen die Wärme der Sonne.",
+      "cloze": "fühlen",
+      "answer": "fühlen",
+      "accepted_answers": [],
+      "lemma": "fühlen",
+      "meaning": "feel",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "fühlt",
+        "preterite_3sg": "fühlte",
+        "participle": "gefühlt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "pronunciation": "Target form fühlen [ˈfyːlən]: stressed long tense rounded [yː], followed by [l] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0023",
+      "locale": "de-DE",
+      "sentence": "Im Märchen brennt Feuer in der Hölle.",
+      "cloze": "Hölle",
+      "answer": "Hölle",
+      "accepted_answers": [],
+      "lemma": "Hölle",
+      "meaning": "hell",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Höllen"
+      },
+      "grammar": "Dative singular after in for a location.",
+      "pronunciation": "Target form Hölle [ˈhœlə]: stressed short lax rounded [œ], followed by [l] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0024",
+      "locale": "de-DE",
+      "sentence": "In der Höhle leben Fledermäuse.",
+      "cloze": "Höhle",
+      "answer": "Höhle",
+      "accepted_answers": [],
+      "lemma": "Höhle",
+      "meaning": "cave",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Höhlen"
+      },
+      "grammar": "Dative singular after in for a location.",
+      "pronunciation": "Target form Höhle [ˈhøːlə]: stressed long tense rounded [øː], followed by [l] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0025",
+      "locale": "de-DE",
+      "sentence": "Wir können gut schwimmen.",
+      "cloze": "können",
+      "answer": "können",
+      "accepted_answers": [],
+      "lemma": "können",
+      "meaning": "can; are able to",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kann",
+        "preterite_3sg": "konnte",
+        "participle": "gekonnt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "The modal verb können takes the infinitive schwimmen at the end of the clause. With another infinitive, the perfect normally uses the replacement infinitive können.",
+      "pronunciation": "Target form können [ˈkœnən]: stressed short lax rounded [œ], followed by [n] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0026",
+      "locale": "de-DE",
+      "sentence": "Wir kennen den Weg zum See.",
+      "cloze": "kennen",
+      "answer": "kennen",
+      "accepted_answers": [],
+      "lemma": "kennen",
+      "meaning": "know or be familiar with",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kennt",
+        "preterite_3sg": "kannte",
+        "participle": "gekannt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Kennen takes the known person or thing in the accusative.",
+      "pronunciation": "Target form kennen [ˈkɛnən]: stressed short lax unrounded [ɛ], followed by [n] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0027",
+      "locale": "de-DE",
+      "sentence": "Die Tür ist noch offen.",
+      "cloze": "Tür",
+      "answer": "Tür",
+      "accepted_answers": [],
+      "lemma": "Tür",
+      "meaning": "door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Türen"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Tür [tyːɐ̯]: long tense rounded [yː] followed by vocalized r."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0028",
+      "locale": "de-DE",
+      "sentence": "Der Schlüssel liegt auf dem Tisch.",
+      "cloze": "Schlüssel",
+      "answer": "Schlüssel",
+      "accepted_answers": [],
+      "lemma": "Schlüssel",
+      "meaning": "key",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Schlüssel"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Schlüssel [ˈʃlʏsəl]: stressed short lax rounded [ʏ], followed by [s] and an unstressed syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0029",
+      "locale": "de-DE",
+      "sentence": "Das Gemüse liegt im Kühlschrank.",
+      "cloze": "Gemüse",
+      "answer": "Gemüse",
+      "accepted_answers": [],
+      "lemma": "Gemüse",
+      "meaning": "vegetables",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "no plural"
+      },
+      "grammar": "Nominative singular subject; Gemüse is normally a mass noun.",
+      "pronunciation": "Target form Gemüse [ɡəˈmyːzə]: stressed long tense rounded [yː], with voiced [z] and an unstressed final schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0030",
+      "locale": "de-DE",
+      "sentence": "Die Mutter küsst ihr Kind.",
+      "cloze": "küsst",
+      "answer": "küsst",
+      "accepted_answers": [],
+      "lemma": "küssen",
+      "meaning": "kisses",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "küsst",
+        "preterite_3sg": "küsste",
+        "participle": "geküsst",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third person singular present of küssen.",
+      "pronunciation": "Target form küsst [kʏst]: short lax rounded [ʏ], followed by [st]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0031",
+      "locale": "de-DE",
+      "sentence": "Ich höre Musik im Bus.",
+      "cloze": "höre",
+      "answer": "höre",
+      "accepted_answers": [],
+      "lemma": "hören",
+      "meaning": "listen to or hear",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "hört",
+        "preterite_3sg": "hörte",
+        "participle": "gehört",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First person singular present of hören; Musik is its accusative object.",
+      "pronunciation": "Target form höre [ˈhøːʁə]: stressed long tense rounded [øː], followed by [ʁ] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0032",
+      "locale": "de-DE",
+      "sentence": "Das Kind möchte ein Glas Wasser.",
+      "cloze": "möchte",
+      "answer": "möchte",
+      "accepted_answers": [],
+      "lemma": "mögen",
+      "meaning": "would like",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "mag",
+        "preterite_3sg": "mochte",
+        "participle": "gemocht",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Möchte is a subjunctive form of mögen used to express a wish politely.",
+      "pronunciation": "Target form möchte [ˈmœçtə]: stressed short lax rounded [œ], followed by [çt] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0033",
+      "locale": "de-DE",
+      "sentence": "Die Vögel trinken am Brunnen.",
+      "cloze": "Vögel",
+      "answer": "Vögel",
+      "accepted_answers": [],
+      "lemma": "Vogel",
+      "meaning": "birds",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Vögel"
+      },
+      "grammar": "Nominative plural subject; the singular is Vogel.",
+      "pronunciation": "Target form Vögel [ˈføːɡəl]: stressed long tense rounded [øː], followed by [ɡ] and an unstressed syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0034",
+      "locale": "de-DE",
+      "sentence": "Die Töpfe stehen auf dem Herd.",
+      "cloze": "Töpfe",
+      "answer": "Töpfe",
+      "accepted_answers": [],
+      "lemma": "Topf",
+      "meaning": "pots",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Töpfe"
+      },
+      "grammar": "Nominative plural subject; the plural has an umlaut.",
+      "pronunciation": "Target form Töpfe [ˈtœpfə]: stressed short lax rounded [œ], followed by [pf] and an unstressed [ə]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0035",
+      "locale": "de-DE",
+      "sentence": "Die Brücke führt über den Fluss.",
+      "cloze": "Brücke",
+      "answer": "Brücke",
+      "accepted_answers": [],
+      "lemma": "Brücke",
+      "meaning": "bridge",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Brücken"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Brücke [ˈbʁʏkə]: stressed short lax rounded [ʏ], followed by [k] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0036",
+      "locale": "de-DE",
+      "sentence": "Die Suppe schmeckt mit Öl gut.",
+      "cloze": "Öl",
+      "answer": "Öl",
+      "accepted_answers": [],
+      "lemma": "Öl",
+      "meaning": "oil",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Öle"
+      },
+      "grammar": "Dative singular after mit.",
+      "pronunciation": "Target form Öl [øːl]: long tense rounded [øː], followed by [l]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0037",
+      "locale": "de-DE",
+      "sentence": "Der Junge öffnet das Fenster.",
+      "cloze": "öffnet",
+      "answer": "öffnet",
+      "accepted_answers": [],
+      "lemma": "öffnen",
+      "meaning": "opens",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "öffnet",
+        "preterite_3sg": "öffnete",
+        "participle": "geöffnet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third person singular present of öffnen.",
+      "pronunciation": "Target form öffnet [ˈœfnət]: stressed short lax rounded [œ], followed by [f] and an unstressed ending."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0038",
+      "locale": "de-DE",
+      "sentence": "Meine Tochter ist müde.",
+      "cloze": "müde",
+      "answer": "müde",
+      "accepted_answers": [],
+      "lemma": "müde",
+      "meaning": "tired",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "grammar": "Predicative adjective after sein; it has no adjective ending.",
+      "pronunciation": "Target form müde [ˈmyːdə]: stressed long tense rounded [yː], followed by [d] and an unstressed schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0039",
+      "locale": "de-DE",
+      "sentence": "Das Wasser ist kühl.",
+      "cloze": "kühl",
+      "answer": "kühl",
+      "accepted_answers": [],
+      "lemma": "kühl",
+      "meaning": "cool",
+      "part_of_speech": "adjective"
+    },
+    "language_specific": {
+      "grammar": "Predicative adjective after sein; it has no adjective ending.",
+      "pronunciation": "Target form kühl [kyːl]: long tense rounded [yː], followed by [l]; h is silent."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0040",
+      "locale": "de-DE",
+      "sentence": "Der Löffel liegt neben der Tasse.",
+      "cloze": "Löffel",
+      "answer": "Löffel",
+      "accepted_answers": [],
+      "lemma": "Löffel",
+      "meaning": "spoon",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Löffel"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target form Löffel [ˈlœfəl]: stressed short lax rounded [œ], followed by [f] and an unstressed syllable."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0041",
+      "locale": "de-DE",
+      "sentence": "Das Licht ist an.",
+      "cloze": "Licht",
+      "answer": "Licht",
+      "accepted_answers": [],
+      "lemma": "Licht",
+      "meaning": "light",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Lichter"
+      },
+      "pronunciation": "Licht [lɪçt]: short open [ɪ] followed by the Ich-Laut [ç].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0042",
+      "locale": "de-DE",
+      "sentence": "Das Buch liegt hier.",
+      "cloze": "Buch",
+      "answer": "Buch",
+      "accepted_answers": [],
+      "lemma": "Buch",
+      "meaning": "book",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Bücher",
+        "genitive": "Buches"
+      },
+      "pronunciation": "Buch [buːx]: long close [uː] followed by the ach-Laut [x].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0043",
+      "locale": "de-DE",
+      "sentence": "Die Milch steht im Kühlschrank.",
+      "cloze": "Milch",
+      "answer": "Milch",
+      "accepted_answers": [],
+      "lemma": "Milch",
+      "meaning": "milk",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "no plural"
+      },
+      "pronunciation": "Milch [mɪlç]: short open [ɪ]; ch is the Ich-Laut [ç].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0044",
+      "locale": "de-DE",
+      "sentence": "Das Dach ist rot.",
+      "cloze": "Dach",
+      "answer": "Dach",
+      "accepted_answers": [],
+      "lemma": "Dach",
+      "meaning": "roof",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Dächer",
+        "genitive": "Daches"
+      },
+      "pronunciation": "Dach [dax]: short [a] followed by the ach-Laut [x].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0045",
+      "locale": "de-DE",
+      "sentence": "Der Teppich liegt im Zimmer.",
+      "cloze": "Teppich",
+      "answer": "Teppich",
+      "accepted_answers": [],
+      "lemma": "Teppich",
+      "meaning": "carpet",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Teppiche"
+      },
+      "pronunciation": "Teppich [ˈtɛpɪç]: stress on the first syllable; both vowels are short and open, and final ch is [ç].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0046",
+      "locale": "de-DE",
+      "sentence": "Die Suppe ist noch heiß.",
+      "cloze": "noch",
+      "answer": "noch",
+      "accepted_answers": [],
+      "lemma": "noch",
+      "meaning": "still",
+      "part_of_speech": "adverb"
+    },
+    "language_specific": {
+      "pronunciation": "noch [nɔx]: short open [ɔ] followed by the ach-Laut [x]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0047",
+      "locale": "de-DE",
+      "sentence": "Das Brot liegt auf dem Tisch.",
+      "cloze": "Brot",
+      "answer": "Brot",
+      "accepted_answers": [],
+      "lemma": "Brot",
+      "meaning": "bread",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Brote"
+      },
+      "pronunciation": "Brot [bʁoːt]: long close [oː]; written final t is voiceless [t].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0048",
+      "locale": "de-DE",
+      "sentence": "Der Hund schläft im Flur.",
+      "cloze": "Hund",
+      "answer": "Hund",
+      "accepted_answers": [],
+      "lemma": "Hund",
+      "meaning": "dog",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Hunde"
+      },
+      "pronunciation": "Hund [hʊnt]: short open [ʊ]; written final d is devoiced to [t].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0049",
+      "locale": "de-DE",
+      "sentence": "Der Korb steht auf dem Boden.",
+      "cloze": "Korb",
+      "answer": "Korb",
+      "accepted_answers": [],
+      "lemma": "Korb",
+      "meaning": "basket",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Körbe",
+        "genitive": "Korbes"
+      },
+      "pronunciation": "Korb [kɔʁp] or [kɔɐ̯p]: short open [ɔ]; written final b is devoiced to [p].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0050",
+      "locale": "de-DE",
+      "sentence": "Der Tag beginnt mit Brot.",
+      "cloze": "Tag",
+      "answer": "Tag",
+      "accepted_answers": [],
+      "lemma": "Tag",
+      "meaning": "day",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Tage",
+        "genitive": "Tages"
+      },
+      "pronunciation": "Tag [taːk]: long [aː]; written final g is devoiced to [k].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0051",
+      "locale": "de-DE",
+      "sentence": "Das Glas steht neben dem Teller.",
+      "cloze": "Glas",
+      "answer": "Glas",
+      "accepted_answers": [],
+      "lemma": "Glas",
+      "meaning": "drinking glass",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Gläser",
+        "genitive": "Glases"
+      },
+      "pronunciation": "Glas [ɡlaːs]: long [aː]; written final s is voiceless [s].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0052",
+      "locale": "de-DE",
+      "sentence": "Das Wasser steht auf dem Tisch.",
+      "cloze": "Wasser",
+      "answer": "Wasser",
+      "accepted_answers": [],
+      "lemma": "Wasser",
+      "meaning": "water",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "no plural in this sense"
+      },
+      "pronunciation": "Wasser [ˈvasɐ]: short [a] before voiceless [s]; final er is vocalized [ɐ].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0053",
+      "locale": "de-DE",
+      "sentence": "Die Vase steht am Fenster.",
+      "cloze": "Vase",
+      "answer": "Vase",
+      "accepted_answers": [],
+      "lemma": "Vase",
+      "meaning": "vase",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Vasen"
+      },
+      "pronunciation": "Vase [ˈvaːzə]: long [aː], voiced [z], and final schwa [ə].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0054",
+      "locale": "de-DE",
+      "sentence": "Der Käse liegt im Kühlschrank.",
+      "cloze": "Käse",
+      "answer": "Käse",
+      "accepted_answers": [],
+      "lemma": "Käse",
+      "meaning": "cheese",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Käse"
+      },
+      "pronunciation": "Käse [ˈkɛːzə] or [ˈkeːzə]: long vowel, voiced [z], and final schwa [ə].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0055",
+      "locale": "de-DE",
+      "sentence": "Der Tisch ist frei.",
+      "cloze": "Der",
+      "answer": "Der",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; masculine nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Der marks the masculine nominative singular subject Tisch."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0056",
+      "locale": "de-DE",
+      "sentence": "Die Lampe ist an.",
+      "cloze": "Die",
+      "answer": "Die",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; feminine nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Die marks the feminine nominative singular subject Lampe."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0057",
+      "locale": "de-DE",
+      "sentence": "Das Zimmer ist frei.",
+      "cloze": "Das",
+      "answer": "Das",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; neuter nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Das marks the neuter nominative singular subject Zimmer."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0058",
+      "locale": "de-DE",
+      "sentence": "Ein Apfel liegt auf dem Teller.",
+      "cloze": "Ein",
+      "answer": "Ein",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; masculine nominative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Ein marks the masculine nominative singular subject Apfel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0059",
+      "locale": "de-DE",
+      "sentence": "Eine Tasche gehört Anna.",
+      "cloze": "Eine",
+      "answer": "Eine",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; feminine nominative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Eine marks the feminine nominative singular subject Tasche."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0060",
+      "locale": "de-DE",
+      "sentence": "Ein Regal steht im Flur.",
+      "cloze": "Ein",
+      "answer": "Ein",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; neuter nominative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Ein marks the neuter nominative singular subject Regal."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0061",
+      "locale": "de-DE",
+      "sentence": "Der Ring liegt im Bad.",
+      "cloze": "Ring",
+      "answer": "Ring",
+      "accepted_answers": [],
+      "lemma": "Ring",
+      "meaning": "ring",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Ringe"
+      },
+      "pronunciation": "Ring [ʁɪŋ]: initial uvular r and short open [ɪ].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0062",
+      "locale": "de-DE",
+      "sentence": "Das Bier steht im Keller.",
+      "cloze": "Bier",
+      "answer": "Bier",
+      "accepted_answers": [],
+      "lemma": "Bier",
+      "meaning": "beer",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Biere"
+      },
+      "pronunciation": "Bier [biːɐ̯]: long close [iː] followed by vocalized r [ɐ̯].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0063",
+      "locale": "de-DE",
+      "sentence": "Der Stuhl steht am Tisch.",
+      "cloze": "Stuhl",
+      "answer": "Stuhl",
+      "accepted_answers": [],
+      "lemma": "Stuhl",
+      "meaning": "chair",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Stühle",
+        "genitive": "Stuhles"
+      },
+      "pronunciation": "Stuhl [ʃtuːl]: initial st is [ʃt]; the vowel is long and close [uː].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0064",
+      "locale": "de-DE",
+      "sentence": "Der Spiegel hängt im Flur.",
+      "cloze": "Spiegel",
+      "answer": "Spiegel",
+      "accepted_answers": [],
+      "lemma": "Spiegel",
+      "meaning": "mirror",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Spiegel"
+      },
+      "pronunciation": "Spiegel [ˈʃpiːɡl̩]: initial sp is [ʃp]; the stressed vowel is long and close [iː].",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0065",
+      "locale": "de-DE",
+      "sentence": "Der Schrank steht im Zimmer.",
+      "cloze": "Schrank",
+      "answer": "Schrank",
+      "accepted_answers": [],
+      "lemma": "Schrank",
+      "meaning": "cupboard",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Schränke",
+        "genitive": "Schrankes"
+      },
+      "pronunciation": "Schrank [ʃʁaŋk]: initial sch is [ʃ], followed by uvular r; [a] is short.",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0066",
+      "locale": "de-DE",
+      "sentence": "Der Knopf liegt auf dem Boden.",
+      "cloze": "Knopf",
+      "answer": "Knopf",
+      "accepted_answers": [],
+      "lemma": "Knopf",
+      "meaning": "button",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Knöpfe",
+        "genitive": "Knopfes"
+      },
+      "pronunciation": "Knopf [knɔpf]: both consonants in initial [kn] are pronounced; [ɔ] is short and open.",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0067",
+      "locale": "de-DE",
+      "sentence": "Das Pferd steht vor dem Haus.",
+      "cloze": "Pferd",
+      "answer": "Pferd",
+      "accepted_answers": [],
+      "lemma": "Pferd",
+      "meaning": "horse",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Pferde",
+        "genitive": "Pferdes"
+      },
+      "pronunciation": "Pferd [pfeːɐ̯t]: initial pf is the affricate [pf]; the vowel is long and close, and final d is devoiced.",
+      "grammar": "Nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0068",
+      "locale": "de-DE",
+      "sentence": "Anna trägt eine Tasche.",
+      "cloze": "trägt",
+      "answer": "trägt",
+      "accepted_answers": [],
+      "lemma": "tragen",
+      "meaning": "carries",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "trägt",
+        "preterite_3sg": "trug",
+        "participle": "getragen",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Trägt is third-person singular; eine Tasche is its accusative object.",
+      "pronunciation": "trägt [tʁɛːkt] or [tʁeːkt]: uvular r follows t; the vowel is long, and g is devoiced before t."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0069",
+      "locale": "de-DE",
+      "sentence": "Paul schreibt einen Brief.",
+      "cloze": "schreibt",
+      "answer": "schreibt",
+      "accepted_answers": [],
+      "lemma": "schreiben",
+      "meaning": "writes",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "schreibt",
+        "preterite_3sg": "schrieb",
+        "participle": "geschrieben",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Schreibt is third-person singular; einen Brief is its accusative object.",
+      "pronunciation": "schreibt [ʃʁaɪ̯pt]: initial sch is [ʃ], followed by uvular r; ei is the diphthong [aɪ̯], and b is devoiced before t."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0070",
+      "locale": "de-DE",
+      "sentence": "Mia knetet den Teig.",
+      "cloze": "knetet",
+      "answer": "knetet",
+      "accepted_answers": [],
+      "lemma": "kneten",
+      "meaning": "kneads",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "knetet",
+        "preterite_3sg": "knetete",
+        "participle": "geknetet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Knetet is third-person singular; den Teig is its accusative object.",
+      "pronunciation": "knetet [ˈkneːtət]: both consonants in initial [kn] are pronounced; stressed [eː] is long and close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0071",
+      "locale": "de-DE",
+      "sentence": "Der Ball liegt unter dem Tisch.",
+      "cloze": "Der",
+      "answer": "Der",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; masculine nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Der marks Ball as the masculine nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0072",
+      "locale": "de-DE",
+      "sentence": "Das Kind nimmt den Ball.",
+      "cloze": "den",
+      "answer": "den",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; masculine accusative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Den marks Ball as the masculine accusative singular object of nimmt."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0073",
+      "locale": "de-DE",
+      "sentence": "Ein Vogel sitzt auf dem Dach.",
+      "cloze": "Ein",
+      "answer": "Ein",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; masculine nominative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Ein marks Vogel as the masculine nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0074",
+      "locale": "de-DE",
+      "sentence": "Mia sieht einen Vogel.",
+      "cloze": "einen",
+      "answer": "einen",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; masculine accusative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Einen marks Vogel as the masculine accusative singular object of sieht."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0075",
+      "locale": "de-DE",
+      "sentence": "Die Katze liegt auf dem Sofa.",
+      "cloze": "Die",
+      "answer": "Die",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; feminine nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Die marks Katze as the feminine nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0076",
+      "locale": "de-DE",
+      "sentence": "Anna streichelt die Katze.",
+      "cloze": "die",
+      "answer": "die",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; feminine accusative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Die marks Katze as the feminine accusative singular object of streichelt; its form matches the nominative."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0077",
+      "locale": "de-DE",
+      "sentence": "Eine Flasche steht auf dem Tisch.",
+      "cloze": "Eine",
+      "answer": "Eine",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; feminine nominative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Eine marks Flasche as the feminine nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0078",
+      "locale": "de-DE",
+      "sentence": "Paul nimmt eine Flasche.",
+      "cloze": "eine",
+      "answer": "eine",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; feminine accusative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Eine marks Flasche as the feminine accusative singular object of nimmt; its form matches the nominative."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0079",
+      "locale": "de-DE",
+      "sentence": "Das Kind trägt das Buch.",
+      "cloze": "das Buch",
+      "answer": "das Buch",
+      "accepted_answers": [],
+      "lemma": "Buch",
+      "meaning": "the book; direct object",
+      "part_of_speech": "noun phrase"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Bücher",
+        "genitive": "Buches"
+      },
+      "grammar": "Das Buch is the neuter accusative singular object of trägt; its article matches the nominative form."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0080",
+      "locale": "de-DE",
+      "sentence": "Die Kinder essen die Äpfel.",
+      "cloze": "die Äpfel",
+      "answer": "die Äpfel",
+      "accepted_answers": [],
+      "lemma": "Apfel",
+      "meaning": "the apples; direct object",
+      "part_of_speech": "noun phrase"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Äpfel"
+      },
+      "grammar": "Die Äpfel is the accusative plural object of essen; die is also the nominative plural article."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0081",
+      "locale": "de-DE",
+      "sentence": "Meine Schwester ist Ärztin.",
+      "cloze": "Ärztin",
+      "answer": "Ärztin",
+      "accepted_answers": [],
+      "lemma": "Ärztin",
+      "meaning": "female doctor",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Ärztinnen"
+      },
+      "grammar": "Predicate noun after sein; professions usually have no article here.",
+      "pronunciation": "Target: [ˈɛːɐ̯tstɪn]; stress falls on the first syllable, with a long open-mid vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0082",
+      "locale": "de-DE",
+      "sentence": "Das Telefon liegt auf dem Tisch.",
+      "cloze": "Telefon",
+      "answer": "Telefon",
+      "accepted_answers": [],
+      "lemma": "Telefon",
+      "meaning": "telephone",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Telefone"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target: [teleˈfoːn]; stress falls on the final syllable, whose vowel is long."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0083",
+      "locale": "de-DE",
+      "sentence": "Mein Geburtstag ist im Mai.",
+      "cloze": "Geburtstag",
+      "answer": "Geburtstag",
+      "accepted_answers": [],
+      "lemma": "Geburtstag",
+      "meaning": "birthday",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Geburtstage"
+      },
+      "grammar": "Nominative singular subject; im Mai means in May.",
+      "pronunciation": "Target: [ɡəˈbuːɐ̯tstaːk]; the main stress is on Geburt, the first part of the compound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0084",
+      "locale": "de-DE",
+      "sentence": "Die Haustür ist blau.",
+      "cloze": "Haustür",
+      "answer": "Haustür",
+      "accepted_answers": [],
+      "lemma": "Haustür",
+      "meaning": "front door",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Haustüren"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target: [ˈhaʊ̯styːɐ̯]; main stress falls on Haus, the first part of the compound."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0085",
+      "locale": "de-DE",
+      "sentence": "Wir besuchen morgen unsere Oma.",
+      "cloze": "besuchen",
+      "answer": "besuchen",
+      "accepted_answers": [],
+      "lemma": "besuchen",
+      "meaning": "visit",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "besucht",
+        "preterite_3sg": "besuchte",
+        "participle": "besucht",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural present; unsere Oma is the accusative object.",
+      "pronunciation": "Target: [bəˈzuːxn̩]; the prefix be- is unstressed and the stem vowel is long."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0086",
+      "locale": "de-DE",
+      "sentence": "Ich kaufe heute für uns ein.",
+      "cloze": "ein",
+      "answer": "ein",
+      "accepted_answers": [],
+      "lemma": "einkaufen",
+      "meaning": "separable prefix of einkaufen: shop for groceries",
+      "part_of_speech": "separable verb prefix"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kauft ein",
+        "preterite_3sg": "kaufte ein",
+        "participle": "eingekauft",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "The separable prefix ein stands at the end of the main clause; kaufe is first-person singular present.",
+      "pronunciation": "Lemma: [ˈʔaɪ̯nkaʊ̯fn̩]; stress falls on the separable prefix ein-."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0087",
+      "locale": "de-DE",
+      "sentence": "Ich verstehe deine Frage.",
+      "cloze": "verstehe",
+      "answer": "verstehe",
+      "accepted_answers": [],
+      "lemma": "verstehen",
+      "meaning": "understand",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "versteht",
+        "preterite_3sg": "verstand",
+        "participle": "verstanden",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular present; deine Frage is the accusative object.",
+      "pronunciation": "Target: [fɛɐ̯ˈʃteːə]; ver- is unstressed and the stressed vowel is long."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0088",
+      "locale": "de-DE",
+      "sentence": "Der Zug fährt um acht Uhr ab.",
+      "cloze": "ab",
+      "answer": "ab",
+      "accepted_answers": [],
+      "lemma": "abfahren",
+      "meaning": "separable prefix of abfahren: depart",
+      "part_of_speech": "separable verb prefix"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "fährt ab",
+        "preterite_3sg": "fuhr ab",
+        "participle": "abgefahren",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "The separable prefix ab stands at the end of the main clause; fährt is third-person singular present.",
+      "pronunciation": "Lemma: [ˈʔapfaːʁən]; stress falls on the separable prefix ab-."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0089",
+      "locale": "de-DE",
+      "sentence": "Ich bin heute zu Hause.",
+      "cloze": "bin",
+      "answer": "bin",
+      "accepted_answers": [],
+      "lemma": "sein",
+      "meaning": "am",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ist",
+        "preterite_3sg": "war",
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "First-person singular present of sein."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0090",
+      "locale": "de-DE",
+      "sentence": "Du bist mein Nachbar.",
+      "cloze": "bist",
+      "answer": "bist",
+      "accepted_answers": [],
+      "lemma": "sein",
+      "meaning": "are",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ist",
+        "preterite_3sg": "war",
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Second-person singular present of sein; mein Nachbar identifies the subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0091",
+      "locale": "de-DE",
+      "sentence": "Sie ist meine Lehrerin.",
+      "cloze": "ist",
+      "answer": "ist",
+      "accepted_answers": [],
+      "lemma": "sein",
+      "meaning": "is",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ist",
+        "preterite_3sg": "war",
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Third-person singular present of sein; meine Lehrerin identifies the subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0092",
+      "locale": "de-DE",
+      "sentence": "Wir sind schon am Bahnhof.",
+      "cloze": "sind",
+      "answer": "sind",
+      "accepted_answers": [],
+      "lemma": "sein",
+      "meaning": "are",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ist",
+        "preterite_3sg": "war",
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "First-person plural present of sein; am Bahnhof expresses location."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0093",
+      "locale": "de-DE",
+      "sentence": "Ich habe einen neuen Rucksack.",
+      "cloze": "habe",
+      "answer": "habe",
+      "accepted_answers": [],
+      "lemma": "haben",
+      "meaning": "have",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "hat",
+        "preterite_3sg": "hatte",
+        "participle": "gehabt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular present; einen neuen Rucksack is the accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0094",
+      "locale": "de-DE",
+      "sentence": "Du hast meine Brille.",
+      "cloze": "hast",
+      "answer": "hast",
+      "accepted_answers": [],
+      "lemma": "haben",
+      "meaning": "have",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "hat",
+        "preterite_3sg": "hatte",
+        "participle": "gehabt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Second-person singular present; meine Brille is the accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0095",
+      "locale": "de-DE",
+      "sentence": "Er hat zwei Katzen.",
+      "cloze": "hat",
+      "answer": "hat",
+      "accepted_answers": [],
+      "lemma": "haben",
+      "meaning": "has",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "hat",
+        "preterite_3sg": "hatte",
+        "participle": "gehabt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third-person singular present; zwei Katzen is the accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0096",
+      "locale": "de-DE",
+      "sentence": "Wir haben heute viel Zeit.",
+      "cloze": "haben",
+      "answer": "haben",
+      "accepted_answers": [],
+      "lemma": "haben",
+      "meaning": "have",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "hat",
+        "preterite_3sg": "hatte",
+        "participle": "gehabt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural present; viel Zeit is the accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0097",
+      "locale": "de-DE",
+      "sentence": "Ich werde langsam müde.",
+      "cloze": "werde",
+      "answer": "werde",
+      "accepted_answers": [],
+      "lemma": "werden",
+      "meaning": "become",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wird",
+        "preterite_3sg": "wurde",
+        "participle": "geworden",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "First-person singular present; müde describes the resulting state."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0098",
+      "locale": "de-DE",
+      "sentence": "Du wirst bald Vater.",
+      "cloze": "wirst",
+      "answer": "wirst",
+      "accepted_answers": [],
+      "lemma": "werden",
+      "meaning": "become",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wird",
+        "preterite_3sg": "wurde",
+        "participle": "geworden",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Second-person singular present; Vater names the resulting role."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0099",
+      "locale": "de-DE",
+      "sentence": "Im Herbst wird es früher dunkel.",
+      "cloze": "wird",
+      "answer": "wird",
+      "accepted_answers": [],
+      "lemma": "werden",
+      "meaning": "becomes",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wird",
+        "preterite_3sg": "wurde",
+        "participle": "geworden",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Third-person singular present with impersonal es; dunkel describes the resulting state."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0100",
+      "locale": "de-DE",
+      "sentence": "Die Kinder werden schnell groß.",
+      "cloze": "werden",
+      "answer": "werden",
+      "accepted_answers": [],
+      "lemma": "werden",
+      "meaning": "grow or become",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wird",
+        "preterite_3sg": "wurde",
+        "participle": "geworden",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Third-person plural present; groß describes the resulting state."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0101",
+      "locale": "de-DE",
+      "sentence": "Heute öffnet Anna die Tür.",
+      "cloze": "öffnet",
+      "answer": "öffnet",
+      "accepted_answers": [],
+      "lemma": "öffnen",
+      "meaning": "opens",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "öffnet",
+        "preterite_3sg": "öffnete",
+        "participle": "geöffnet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third-person singular present; the finite verb follows heute in the second position, and the subject Anna follows the verb.",
+      "pronunciation": "Sentence, with a possible phrase boundary: [ˈhɔʏ̯tə | ˈʔœfnət ˈʔana diː ˈtyːɐ̯]. After the boundary, öffnet can begin with a glottal onset [ʔ]; its stressed [œ] is short. A boundary does not invariably require a glottal stop."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0102",
+      "locale": "de-DE",
+      "sentence": "Zuerst essen wir einen Apfel.",
+      "cloze": "Apfel",
+      "answer": "Apfel",
+      "accepted_answers": [],
+      "lemma": "Apfel",
+      "meaning": "apple",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Äpfel"
+      },
+      "grammar": "Accusative singular object of essen; einen marks masculine accusative.",
+      "pronunciation": "Target: [ˈʔapfl̩]; the initial vowel has a glottal onset and is short."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0103",
+      "locale": "de-DE",
+      "sentence": "Danach kommt unser Onkel.",
+      "cloze": "Onkel",
+      "answer": "Onkel",
+      "accepted_answers": [],
+      "lemma": "Onkel",
+      "meaning": "uncle",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Onkel"
+      },
+      "grammar": "Nominative singular subject after the finite verb.",
+      "pronunciation": "Target: [ˈʔɔŋkl̩]; the initial vowel has a glottal onset and is short and open-mid."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0104",
+      "locale": "de-DE",
+      "sentence": "Am Abend kocht Eva.",
+      "cloze": "Eva",
+      "answer": "Eva",
+      "accepted_answers": [],
+      "lemma": "Eva",
+      "meaning": "Eva",
+      "part_of_speech": "proper noun"
+    },
+    "language_specific": {
+      "grammar": "Eva is the subject after the finite verb; am Abend occupies the first field.",
+      "pronunciation": "Target: [ˈʔeːva]; the initial vowel has a glottal onset and is long and close-mid."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0105",
+      "locale": "de-DE",
+      "sentence": "Morgen beginnt unser Urlaub.",
+      "cloze": "Urlaub",
+      "answer": "Urlaub",
+      "accepted_answers": [],
+      "lemma": "Urlaub",
+      "meaning": "holiday or vacation",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Urlaube"
+      },
+      "grammar": "Nominative singular subject after the finite verb.",
+      "pronunciation": "Target: [ˈʔuːɐ̯laʊ̯p]; the initial vowel has a glottal onset and is long."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0106",
+      "locale": "de-DE",
+      "sentence": "Hier endet die Straße.",
+      "cloze": "endet",
+      "answer": "endet",
+      "accepted_answers": [],
+      "lemma": "enden",
+      "meaning": "ends",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "endet",
+        "preterite_3sg": "endete",
+        "participle": "geendet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third-person singular present; the subject die Straße follows the finite verb.",
+      "pronunciation": "Target: [ˈʔɛndət]; the initial vowel has a glottal onset and is short and open-mid."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0107",
+      "locale": "de-DE",
+      "sentence": "Jetzt üben wir zusammen.",
+      "cloze": "üben",
+      "answer": "üben",
+      "accepted_answers": [],
+      "lemma": "üben",
+      "meaning": "practise",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "übt",
+        "preterite_3sg": "übte",
+        "participle": "geübt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural present; wir follows the finite verb after jetzt.",
+      "pronunciation": "Target: [ˈʔyːbən]; the initial vowel has a glottal onset and is long and rounded."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0108",
+      "locale": "de-DE",
+      "sentence": "Zuerst antwortet Amir.",
+      "cloze": "antwortet",
+      "answer": "antwortet",
+      "accepted_answers": [],
+      "lemma": "antworten",
+      "meaning": "answers",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "antwortet",
+        "preterite_3sg": "antwortete",
+        "participle": "geantwortet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third-person singular present; Amir follows the finite verb.",
+      "pronunciation": "Target: [ˈʔantvɔʁtət]; the initial vowel has a glottal onset and is short."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0109",
+      "locale": "de-DE",
+      "sentence": "Heute kommt meine Freundin an.",
+      "cloze": "kommt",
+      "answer": "kommt",
+      "accepted_answers": [],
+      "lemma": "ankommen",
+      "meaning": "arrives",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt an",
+        "preterite_3sg": "kam an",
+        "participle": "angekommen",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "Heute occupies the first field, followed by the finite verb and subject; an closes the clause."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0110",
+      "locale": "de-DE",
+      "sentence": "Am Bahnhof wartet mein Bruder.",
+      "cloze": "wartet",
+      "answer": "wartet",
+      "accepted_answers": [],
+      "lemma": "warten",
+      "meaning": "waits",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wartet",
+        "preterite_3sg": "wartete",
+        "participle": "gewartet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Am Bahnhof occupies the first field; the subject mein Bruder follows the finite verb."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0111",
+      "locale": "de-DE",
+      "sentence": "Danach fahren wir nach Hause.",
+      "cloze": "fahren",
+      "answer": "fahren",
+      "accepted_answers": [],
+      "lemma": "fahren",
+      "meaning": "travel by vehicle",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "fährt",
+        "preterite_3sg": "fuhr",
+        "participle": "gefahren",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Danach occupies the first field; wir follows the finite verb. Nach Hause names the destination."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0112",
+      "locale": "de-DE",
+      "sentence": "Zuerst packe ich meinen Koffer.",
+      "cloze": "packe",
+      "answer": "packe",
+      "accepted_answers": [],
+      "lemma": "packen",
+      "meaning": "pack",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "packt",
+        "preterite_3sg": "packte",
+        "participle": "gepackt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Zuerst occupies the first field; ich follows the finite verb. Meinen Koffer is the accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0113",
+      "locale": "de-DE",
+      "sentence": "Dann holt Papa die Kinder ab.",
+      "cloze": "holt",
+      "answer": "holt",
+      "accepted_answers": [],
+      "lemma": "abholen",
+      "meaning": "picks up",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "holt ab",
+        "preterite_3sg": "holte ab",
+        "participle": "abgeholt",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "Dann occupies the first field; Papa follows the finite verb, and ab closes the clause.",
+      "pronunciation": "Lemma: [ˈʔaphoːlən]; the separable prefix ab- carries the main stress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0114",
+      "locale": "de-DE",
+      "sentence": "Hier wohnt jetzt meine Tante.",
+      "cloze": "wohnt",
+      "answer": "wohnt",
+      "accepted_answers": [],
+      "lemma": "wohnen",
+      "meaning": "lives or resides",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "wohnt",
+        "preterite_3sg": "wohnte",
+        "participle": "gewohnt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Hier occupies the first field; the subject meine Tante follows the finite verb."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0115",
+      "locale": "de-DE",
+      "sentence": "Zum Glück ist der Zug pünktlich.",
+      "cloze": "ist",
+      "answer": "ist",
+      "accepted_answers": [],
+      "lemma": "sein",
+      "meaning": "is",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ist",
+        "preterite_3sg": "war",
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Zum Glück occupies the first field; der Zug follows the finite verb."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0116",
+      "locale": "de-DE",
+      "sentence": "Morgen hat Lea einen Termin.",
+      "cloze": "hat",
+      "answer": "hat",
+      "accepted_answers": [],
+      "lemma": "haben",
+      "meaning": "has",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "hat",
+        "preterite_3sg": "hatte",
+        "participle": "gehabt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Morgen occupies the first field; Lea follows the finite verb. Einen Termin is the accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0117",
+      "locale": "de-DE",
+      "sentence": "Nach dem Essen räumen wir auf.",
+      "cloze": "räumen",
+      "answer": "räumen",
+      "accepted_answers": [],
+      "lemma": "aufräumen",
+      "meaning": "tidy up",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "räumt auf",
+        "preterite_3sg": "räumte auf",
+        "participle": "aufgeräumt",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "Nach dem Essen occupies the first field; wir follows the finite verb, and auf closes the clause.",
+      "pronunciation": "Lemma: [ˈʔaʊ̯fʁɔʏ̯mən]; the separable prefix auf- carries the main stress."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0118",
+      "locale": "de-DE",
+      "sentence": "Diesen Namen meine ich.",
+      "cloze": "meine",
+      "answer": "meine",
+      "accepted_answers": [],
+      "lemma": "meinen",
+      "meaning": "mean or refer to",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "meint",
+        "preterite_3sg": "meinte",
+        "participle": "gemeint",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "The accusative object diesen Namen occupies the first field; ich follows the finite verb."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0119",
+      "locale": "de-DE",
+      "sentence": "Heute arbeitet Ali im Büro.",
+      "cloze": "arbeitet",
+      "answer": "arbeitet",
+      "accepted_answers": [],
+      "lemma": "arbeiten",
+      "meaning": "works",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "arbeitet",
+        "preterite_3sg": "arbeitete",
+        "participle": "gearbeitet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Heute occupies the first field; Ali follows the finite verb.",
+      "pronunciation": "Target: [ˈʔaʁbaɪ̯tət]; the initial vowel has a glottal onset, and the ending has a short schwa."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0120",
+      "locale": "de-DE",
+      "sentence": "Am Eingang steht ein Schild.",
+      "cloze": "steht",
+      "answer": "steht",
+      "accepted_answers": [],
+      "lemma": "stehen",
+      "meaning": "stands",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "steht",
+        "preterite_3sg": "stand",
+        "participle": "gestanden",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Am Eingang occupies the first field; the nominative subject ein Schild follows the finite verb."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0121",
+      "locale": "de-DE",
+      "sentence": "Ich suche meinen Schlüssel.",
+      "cloze": "suche",
+      "answer": "suche",
+      "accepted_answers": [],
+      "lemma": "suchen",
+      "meaning": "look for",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "sucht",
+        "preterite_3sg": "suchte",
+        "participle": "gesucht",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular present; suchen takes an accusative object.",
+      "pronunciation": "Target: [ˈzuːxə]. The final unstressed -e is schwa [ə]; [uː] is long and close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0122",
+      "locale": "de-DE",
+      "sentence": "Die Lampe steht am Fenster.",
+      "cloze": "Lampe",
+      "answer": "Lampe",
+      "accepted_answers": [],
+      "lemma": "Lampe",
+      "meaning": "lamp",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Lampen"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target: [ˈlampə]. The final unstressed -e is schwa [ə]; [a] is short."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0123",
+      "locale": "de-DE",
+      "sentence": "Wir lernen heute zusammen.",
+      "cloze": "lernen",
+      "answer": "lernen",
+      "accepted_answers": [],
+      "lemma": "lernen",
+      "meaning": "learn",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "lernt",
+        "preterite_3sg": "lernte",
+        "participle": "gelernt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural present.",
+      "pronunciation": "Target: [ˈlɛʁnən] or [ˈlɛʁn̩]. Unstressed -en can have schwa or a syllabic nasal; stressed [ɛ] is short and open."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0124",
+      "locale": "de-DE",
+      "sentence": "Die Blumen stehen im Garten.",
+      "cloze": "Blumen",
+      "answer": "Blumen",
+      "accepted_answers": [],
+      "lemma": "Blume",
+      "meaning": "flowers",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Blumen"
+      },
+      "grammar": "Nominative plural subject.",
+      "pronunciation": "Target: [ˈbluːmən] or [ˈbluːmn̩]. Unstressed -en may lose schwa; [uː] is long and close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0125",
+      "locale": "de-DE",
+      "sentence": "Mein Bruder wohnt in Köln.",
+      "cloze": "Bruder",
+      "answer": "Bruder",
+      "accepted_answers": [],
+      "lemma": "Bruder",
+      "meaning": "brother",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Brüder"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target: [ˈbʁuːdɐ]. Unstressed final -er is vocalized as [ɐ]; [uː] is long and close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0126",
+      "locale": "de-DE",
+      "sentence": "Das Zimmer ist sehr hell.",
+      "cloze": "Zimmer",
+      "answer": "Zimmer",
+      "accepted_answers": [],
+      "lemma": "Zimmer",
+      "meaning": "room",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Zimmer"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target: [ˈt͡sɪmɐ]. Final unstressed -er is [ɐ]; [ɪ] is short and lax."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0127",
+      "locale": "de-DE",
+      "sentence": "Ich öffne das Fenster.",
+      "cloze": "öffne",
+      "answer": "öffne",
+      "accepted_answers": [],
+      "lemma": "öffnen",
+      "meaning": "open",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "öffnet",
+        "preterite_3sg": "öffnete",
+        "participle": "geöffnet",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular present; öffnen takes an accusative object.",
+      "pronunciation": "Target: [ˈœfnə]. Final unstressed -e is schwa [ə]; [œ] is short and open."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0128",
+      "locale": "de-DE",
+      "sentence": "Wir kaufen Obst für morgen.",
+      "cloze": "kaufen",
+      "answer": "kaufen",
+      "accepted_answers": [],
+      "lemma": "kaufen",
+      "meaning": "buy",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kauft",
+        "preterite_3sg": "kaufte",
+        "participle": "gekauft",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural present; Obst is the accusative object.",
+      "pronunciation": "Target: [ˈkaʊ̯fən] or [ˈkaʊ̯fn̩]. Unstressed -en may have a syllabic nasal; [aʊ̯] is a diphthong."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0129",
+      "locale": "de-DE",
+      "sentence": "Der Lehrer erklärt die Aufgabe.",
+      "cloze": "Lehrer",
+      "answer": "Lehrer",
+      "accepted_answers": [],
+      "lemma": "Lehrer",
+      "meaning": "male teacher",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Lehrer"
+      },
+      "grammar": "Nominative singular subject.",
+      "pronunciation": "Target: [ˈleːʁɐ]. Final unstressed -er is [ɐ]; [eː] is long and close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0130",
+      "locale": "de-DE",
+      "sentence": "Die Kinder spielen im Hof.",
+      "cloze": "Kinder",
+      "answer": "Kinder",
+      "accepted_answers": [],
+      "lemma": "Kind",
+      "meaning": "children",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Kinder",
+        "genitive": "Kindes"
+      },
+      "grammar": "Nominative plural subject.",
+      "pronunciation": "Target: [ˈkɪndɐ]. Unstressed plural -er is [ɐ]; [ɪ] is short and lax."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0131",
+      "locale": "de-DE",
+      "sentence": "Wie heißt du?",
+      "cloze": "Wie",
+      "answer": "Wie",
+      "accepted_answers": [],
+      "lemma": "wie",
+      "meaning": "what, in a question asking someone's name",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "grammar": "The question word occupies the first position; the finite verb heißt follows.",
+      "pronunciation": "Target: [viː], with a long close [iː]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0132",
+      "locale": "de-DE",
+      "sentence": "Was liegt auf dem Tisch?",
+      "cloze": "Was",
+      "answer": "Was",
+      "accepted_answers": [],
+      "lemma": "was",
+      "meaning": "what",
+      "part_of_speech": "interrogative pronoun"
+    },
+    "language_specific": {
+      "grammar": "Was asks for the subject; the finite verb follows it.",
+      "pronunciation": "Target: [vas], with short [a] and final voiceless [s]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0133",
+      "locale": "de-DE",
+      "sentence": "Wohin fährt dieser Bus?",
+      "cloze": "Wohin",
+      "answer": "Wohin",
+      "accepted_answers": [],
+      "lemma": "wohin",
+      "meaning": "where to",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "grammar": "Wohin asks for a destination; the finite verb follows the question word.",
+      "pronunciation": "Target: [voˈhɪn]. Stress falls on the second syllable; [o] is unstressed, and [ɪ] is short and lax."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0134",
+      "locale": "de-DE",
+      "sentence": "Wer wartet vor der Tür?",
+      "cloze": "Wer",
+      "answer": "Wer",
+      "accepted_answers": [],
+      "lemma": "wer",
+      "meaning": "who",
+      "part_of_speech": "interrogative pronoun"
+    },
+    "language_specific": {
+      "grammar": "Wer asks for the nominative subject and takes a singular verb.",
+      "pronunciation": "Target: [veːɐ̯], with a long close [eː] and vocalized final r."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0135",
+      "locale": "de-DE",
+      "sentence": "Wo ist mein Mantel?",
+      "cloze": "Wo",
+      "answer": "Wo",
+      "accepted_answers": [],
+      "lemma": "wo",
+      "meaning": "where",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "grammar": "Wo asks for a location; the finite verb follows.",
+      "pronunciation": "Target: [voː], with a long close [oː]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0136",
+      "locale": "de-DE",
+      "sentence": "Kommst du morgen mit?",
+      "cloze": "Kommst",
+      "answer": "Kommst",
+      "accepted_answers": [],
+      "lemma": "mitkommen",
+      "meaning": "are you coming along",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt mit",
+        "preterite_3sg": "kam mit",
+        "participle": "mitgekommen",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "The finite verb comes first in this yes/no question; the separable prefix mit stands at the end.",
+      "pronunciation": "Target: [kɔmst], with short open [ɔ] and final [mst]. The sentence commonly has rising question intonation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0137",
+      "locale": "de-DE",
+      "sentence": "Ist das dein Fahrrad?",
+      "cloze": "Ist",
+      "answer": "Ist",
+      "accepted_answers": [],
+      "lemma": "sein",
+      "meaning": "is",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ist",
+        "preterite_3sg": "war",
+        "participle": "gewesen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "The finite verb comes first in this yes/no question.",
+      "pronunciation": "Target: [ɪst], with short lax [ɪ]. The sentence commonly has rising question intonation."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0138",
+      "locale": "de-DE",
+      "sentence": "Wann beginnt der Film?",
+      "cloze": "Wann",
+      "answer": "Wann",
+      "accepted_answers": [],
+      "lemma": "wann",
+      "meaning": "when",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "grammar": "Wann asks for a time; the finite verb follows.",
+      "pronunciation": "Target: [van], with short [a]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0139",
+      "locale": "de-DE",
+      "sentence": "Welche Tasche gehört dir?",
+      "cloze": "Welche",
+      "answer": "Welche",
+      "accepted_answers": [],
+      "lemma": "welcher",
+      "meaning": "which",
+      "part_of_speech": "interrogative determiner"
+    },
+    "language_specific": {
+      "grammar": "Welche modifies feminine nominative singular Tasche.",
+      "pronunciation": "Target: [ˈvɛlçə]. The final unstressed -e is schwa; [ɛ] is short and open."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0140",
+      "locale": "de-DE",
+      "sentence": "Woher kommt deine Familie?",
+      "cloze": "Woher",
+      "answer": "Woher",
+      "accepted_answers": [],
+      "lemma": "woher",
+      "meaning": "where from",
+      "part_of_speech": "interrogative adverb"
+    },
+    "language_specific": {
+      "grammar": "Woher asks for a place of origin; the finite verb follows.",
+      "pronunciation": "Target: [voˈheːɐ̯]. Stress falls on the second syllable; [o] is unstressed, [eː] is long and close-mid, and [ɐ̯] is a vocalized r."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0141",
+      "locale": "de-DE",
+      "sentence": "Das ist nicht mein Fahrrad.",
+      "cloze": "nicht",
+      "answer": "nicht",
+      "accepted_answers": [],
+      "lemma": "nicht",
+      "meaning": "not",
+      "part_of_speech": "negative particle"
+    },
+    "language_specific": {
+      "grammar": "Nicht negates the identifying phrase mein Fahrrad."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0142",
+      "locale": "de-DE",
+      "sentence": "Hier ist kein Arzt.",
+      "cloze": "kein",
+      "answer": "kein",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "no; not a",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Kein modifies masculine nominative singular Arzt and negates the existence of an Arzt here."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0143",
+      "locale": "de-DE",
+      "sentence": "Ich habe keinen Schlüssel.",
+      "cloze": "keinen",
+      "answer": "keinen",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "no; not a",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Keinen modifies masculine accusative singular Schlüssel, the object of habe."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0144",
+      "locale": "de-DE",
+      "sentence": "Das ist keine Tasche.",
+      "cloze": "keine",
+      "answer": "keine",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "not a",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Keine modifies feminine nominative singular Tasche after ist."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0145",
+      "locale": "de-DE",
+      "sentence": "Wir brauchen keine Hilfe.",
+      "cloze": "keine",
+      "answer": "keine",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "no; not any",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Keine modifies feminine accusative singular Hilfe, the object of brauchen."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0146",
+      "locale": "de-DE",
+      "sentence": "Das ist kein Problem.",
+      "cloze": "kein",
+      "answer": "kein",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "not a",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Kein modifies neuter nominative singular Problem after ist."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0147",
+      "locale": "de-DE",
+      "sentence": "Sie hat kein Auto.",
+      "cloze": "kein",
+      "answer": "kein",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "no; not a",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Kein modifies neuter accusative singular Auto, the object of hat."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0148",
+      "locale": "de-DE",
+      "sentence": "Im Garten stehen keine Bäume.",
+      "cloze": "keine",
+      "answer": "keine",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "no; not any",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Keine modifies the nominative plural subject Bäume; stehen agrees in the plural."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0149",
+      "locale": "de-DE",
+      "sentence": "Ich sehe keine Sterne.",
+      "cloze": "keine",
+      "answer": "keine",
+      "accepted_answers": [],
+      "lemma": "kein",
+      "meaning": "no; not any",
+      "part_of_speech": "negative determiner"
+    },
+    "language_specific": {
+      "grammar": "Keine modifies accusative plural Sterne, the object of sehe."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0150",
+      "locale": "de-DE",
+      "sentence": "Der Kaffee ist nicht heiß.",
+      "cloze": "nicht",
+      "answer": "nicht",
+      "accepted_answers": [],
+      "lemma": "nicht",
+      "meaning": "not",
+      "part_of_speech": "negative particle"
+    },
+    "language_specific": {
+      "grammar": "Nicht negates the predicative adjective heiß."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0151",
+      "locale": "de-DE",
+      "sentence": "Mara wohnt nicht in Berlin.",
+      "cloze": "nicht",
+      "answer": "nicht",
+      "accepted_answers": [],
+      "lemma": "nicht",
+      "meaning": "not",
+      "part_of_speech": "negative particle"
+    },
+    "language_specific": {
+      "grammar": "Nicht negates the location phrase in Berlin."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0152",
+      "locale": "de-DE",
+      "sentence": "Der Lehrer sucht den Stift.",
+      "cloze": "den",
+      "answer": "den",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; masculine accusative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Den marks Stift as the masculine accusative singular object of sucht."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0153",
+      "locale": "de-DE",
+      "sentence": "Ein Gast wartet vor der Tür.",
+      "cloze": "Ein",
+      "answer": "Ein",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; masculine nominative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Ein marks Gast as the masculine nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0154",
+      "locale": "de-DE",
+      "sentence": "Wir suchen einen Parkplatz.",
+      "cloze": "einen",
+      "answer": "einen",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; masculine accusative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Einen marks Parkplatz as the masculine accusative singular object of suchen."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0155",
+      "locale": "de-DE",
+      "sentence": "Die Uhr gehört nicht mir, sondern Anna.",
+      "cloze": "Die",
+      "answer": "Die",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; feminine nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Die marks Uhr as the feminine nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0156",
+      "locale": "de-DE",
+      "sentence": "Paul öffnet die Flasche.",
+      "cloze": "die",
+      "answer": "die",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; feminine accusative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Die marks Flasche as the feminine accusative singular object of öffnet."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0157",
+      "locale": "de-DE",
+      "sentence": "Das Kind sucht seine Mutter.",
+      "cloze": "Das",
+      "answer": "Das",
+      "accepted_answers": [],
+      "lemma": "der",
+      "meaning": "the; neuter nominative singular",
+      "part_of_speech": "definite article"
+    },
+    "language_specific": {
+      "grammar": "Das marks Kind as the neuter nominative singular subject."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0158",
+      "locale": "de-DE",
+      "sentence": "Sie kauft ein Kleid.",
+      "cloze": "ein",
+      "answer": "ein",
+      "accepted_answers": [],
+      "lemma": "ein",
+      "meaning": "a; neuter accusative singular",
+      "part_of_speech": "indefinite article"
+    },
+    "language_specific": {
+      "grammar": "Ein marks Kleid as the neuter accusative singular object of kauft."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0159",
+      "locale": "de-DE",
+      "sentence": "Die Gäste kommen heute.",
+      "cloze": "kommen",
+      "answer": "kommen",
+      "accepted_answers": [],
+      "lemma": "kommen",
+      "meaning": "come",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt",
+        "preterite_3sg": "kam",
+        "participle": "gekommen",
+        "auxiliary": "sein",
+        "separable": false
+      },
+      "grammar": "Third-person plural present; kommen agrees with the plural subject die Gäste."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0160",
+      "locale": "de-DE",
+      "sentence": "Das gehört nicht Anna, sondern mir.",
+      "cloze": "nicht",
+      "answer": "nicht",
+      "accepted_answers": [],
+      "lemma": "nicht",
+      "meaning": "not",
+      "part_of_speech": "negative particle"
+    },
+    "language_specific": {
+      "grammar": "Nicht negates Anna; sondern introduces the corrected owner, mir."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0161",
+      "locale": "de-DE",
+      "sentence": "Ich kann heute länger bleiben.",
+      "cloze": "kann",
+      "answer": "kann",
+      "accepted_answers": [],
+      "lemma": "können",
+      "meaning": "can; be able to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive können instead of gekonnt."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kann",
+        "preterite_3sg": "konnte",
+        "participle": "gekonnt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular modal; the dependent infinitive bleiben stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0162",
+      "locale": "de-DE",
+      "sentence": "Kannst du morgen früher kommen?",
+      "cloze": "Kannst",
+      "answer": "Kannst",
+      "accepted_answers": [],
+      "lemma": "können",
+      "meaning": "can; be able to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive können instead of gekonnt."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kann",
+        "preterite_3sg": "konnte",
+        "participle": "gekonnt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Second-person singular modal in a yes-or-no question; kommen stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0163",
+      "locale": "de-DE",
+      "sentence": "Ich muss heute Brot kaufen.",
+      "cloze": "muss",
+      "answer": "muss",
+      "accepted_answers": [],
+      "lemma": "müssen",
+      "meaning": "must; need to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive müssen instead of gemusst."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "muss",
+        "preterite_3sg": "musste",
+        "participle": "gemusst",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular modal; kaufen is the dependent infinitive at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0164",
+      "locale": "de-DE",
+      "sentence": "Müssen wir einen Termin machen?",
+      "cloze": "Müssen",
+      "answer": "Müssen",
+      "accepted_answers": [],
+      "lemma": "müssen",
+      "meaning": "must; need to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive müssen instead of gemusst."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "muss",
+        "preterite_3sg": "musste",
+        "participle": "gemusst",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural modal in a yes-or-no question; machen stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0165",
+      "locale": "de-DE",
+      "sentence": "Wir wollen am Samstag zusammen kochen.",
+      "cloze": "wollen",
+      "answer": "wollen",
+      "accepted_answers": [],
+      "lemma": "wollen",
+      "meaning": "want to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive wollen instead of gewollt."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "will",
+        "preterite_3sg": "wollte",
+        "participle": "gewollt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person plural modal; kochen stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0166",
+      "locale": "de-DE",
+      "sentence": "Willst du Tee oder Kaffee trinken?",
+      "cloze": "Willst",
+      "answer": "Willst",
+      "accepted_answers": [],
+      "lemma": "wollen",
+      "meaning": "want to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive wollen instead of gewollt."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "will",
+        "preterite_3sg": "wollte",
+        "participle": "gewollt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Second-person singular modal in a question; trinken stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0167",
+      "locale": "de-DE",
+      "sentence": "Darf ich hier sitzen?",
+      "cloze": "Darf",
+      "answer": "Darf",
+      "accepted_answers": [],
+      "lemma": "dürfen",
+      "meaning": "may; have permission to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive dürfen instead of gedurft."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "darf",
+        "preterite_3sg": "durfte",
+        "participle": "gedurft",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular modal in a permission question; sitzen stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0168",
+      "locale": "de-DE",
+      "sentence": "Ihr dürft hier nicht parken.",
+      "cloze": "dürft",
+      "answer": "dürft",
+      "accepted_answers": [],
+      "lemma": "dürfen",
+      "meaning": "may; be allowed to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive dürfen instead of gedurft."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "darf",
+        "preterite_3sg": "durfte",
+        "participle": "gedurft",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Second-person plural modal; nicht dürfen expresses a prohibition. Parken stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0169",
+      "locale": "de-DE",
+      "sentence": "Soll ich Milch mitbringen?",
+      "cloze": "Soll",
+      "answer": "Soll",
+      "accepted_answers": [],
+      "lemma": "sollen",
+      "meaning": "shall; ask what is wanted",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive sollen instead of gesollt."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "soll",
+        "preterite_3sg": "sollte",
+        "participle": "gesollt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular modal in a question; mitbringen stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0170",
+      "locale": "de-DE",
+      "sentence": "Der Arzt sagt, ich soll morgen kommen.",
+      "cloze": "soll",
+      "answer": "soll",
+      "accepted_answers": [],
+      "lemma": "sollen",
+      "meaning": "should; be told to",
+      "part_of_speech": "verb",
+      "note": "With a dependent infinitive, the perfect normally uses the replacement infinitive sollen instead of gesollt."
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "soll",
+        "preterite_3sg": "sollte",
+        "participle": "gesollt",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular modal reports the doctor's instruction; kommen stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0171",
+      "locale": "de-DE",
+      "sentence": "Meine Schwester mag schwarzen Tee.",
+      "cloze": "mag",
+      "answer": "mag",
+      "accepted_answers": [],
+      "lemma": "mögen",
+      "meaning": "like",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "mag",
+        "preterite_3sg": "mochte",
+        "participle": "gemocht",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "Third-person singular; mögen takes schwarzen Tee as an accusative object."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0172",
+      "locale": "de-DE",
+      "sentence": "Ich möchte einen Kaffee, bitte.",
+      "cloze": "möchte",
+      "answer": "möchte",
+      "accepted_answers": [],
+      "lemma": "mögen",
+      "meaning": "would like",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "mag",
+        "preterite_3sg": "mochte",
+        "participle": "gemocht",
+        "auxiliary": "haben",
+        "separable": false
+      },
+      "grammar": "First-person singular subjunctive form used for a wish; einen Kaffee is accusative.",
+      "usage": "A polite way to order a coffee."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0173",
+      "locale": "de-DE",
+      "sentence": "Der Termin ist um neun Uhr.",
+      "cloze": "neun",
+      "answer": "neun",
+      "accepted_answers": [],
+      "lemma": "neun",
+      "meaning": "nine",
+      "part_of_speech": "numeral"
+    },
+    "language_specific": {
+      "grammar": "Um neun Uhr specifies the time of an appointment."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0174",
+      "locale": "de-DE",
+      "sentence": "Der Film beginnt um halb acht.",
+      "cloze": "halb acht",
+      "answer": "halb acht",
+      "accepted_answers": [],
+      "lemma": "halb acht",
+      "meaning": "half past seven",
+      "part_of_speech": "time expression"
+    },
+    "language_specific": {
+      "grammar": "Halb acht means half an hour before eight; um introduces the time."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0175",
+      "locale": "de-DE",
+      "sentence": "Das Buch kostet zwölf Euro.",
+      "cloze": "zwölf",
+      "answer": "zwölf",
+      "accepted_answers": [],
+      "lemma": "zwölf",
+      "meaning": "twelve",
+      "part_of_speech": "numeral"
+    },
+    "language_specific": {
+      "grammar": "Zwölf specifies the number of euros in the price."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0176",
+      "locale": "de-DE",
+      "sentence": "Ich brauche zwei Kilo Kartoffeln.",
+      "cloze": "zwei",
+      "answer": "zwei",
+      "accepted_answers": [],
+      "lemma": "zwei",
+      "meaning": "two",
+      "part_of_speech": "numeral"
+    },
+    "language_specific": {
+      "grammar": "Zwei specifies the quantity in zwei Kilo Kartoffeln."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0177",
+      "locale": "de-DE",
+      "sentence": "Unser Termin ist am dritten Mai.",
+      "cloze": "dritten",
+      "answer": "dritten",
+      "accepted_answers": [],
+      "lemma": "dritte",
+      "meaning": "third",
+      "part_of_speech": "ordinal numeral"
+    },
+    "language_specific": {
+      "grammar": "Dative masculine singular ordinal after am in a date: am dritten Mai."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0178",
+      "locale": "de-DE",
+      "sentence": "Der Laden schließt in zehn Minuten.",
+      "cloze": "zehn",
+      "answer": "zehn",
+      "accepted_answers": [],
+      "lemma": "zehn",
+      "meaning": "ten",
+      "part_of_speech": "numeral"
+    },
+    "language_specific": {
+      "grammar": "In zehn Minuten indicates how long from now the shop will close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0179",
+      "locale": "de-DE",
+      "sentence": "Der Kurs dauert eine Stunde.",
+      "cloze": "Stunde",
+      "answer": "Stunde",
+      "accepted_answers": [],
+      "lemma": "Stunde",
+      "meaning": "hour",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Stunden"
+      },
+      "grammar": "Eine Stunde expresses duration with dauern."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0180",
+      "locale": "de-DE",
+      "sentence": "Am Freitag habe ich einen Termin.",
+      "cloze": "Freitag",
+      "answer": "Freitag",
+      "accepted_answers": [],
+      "lemma": "Freitag",
+      "meaning": "Friday",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Freitage"
+      },
+      "grammar": "Am Freitag means on Friday; am combines an and dem."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0181",
+      "locale": "de-DE",
+      "sentence": "Ich rufe meine Mutter heute Abend an.",
+      "cloze": "rufe",
+      "answer": "rufe",
+      "accepted_answers": [],
+      "lemma": "anrufen",
+      "meaning": "call by phone",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ruft an",
+        "preterite_3sg": "rief an",
+        "participle": "angerufen",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "First-person singular finite component; the prefix an stands at the end. Meine Mutter is accusative."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0182",
+      "locale": "de-DE",
+      "sentence": "Rufst du morgen beim Arzt an?",
+      "cloze": "an",
+      "answer": "an",
+      "accepted_answers": [],
+      "lemma": "anrufen",
+      "meaning": "separable prefix of anrufen: call by phone",
+      "part_of_speech": "separable verb prefix"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ruft an",
+        "preterite_3sg": "rief an",
+        "participle": "angerufen",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "The prefix an stands at the end; the finite component Rufst starts the question."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0183",
+      "locale": "de-DE",
+      "sentence": "Kannst du mich später anrufen?",
+      "cloze": "anrufen",
+      "answer": "anrufen",
+      "accepted_answers": [],
+      "lemma": "anrufen",
+      "meaning": "call by phone",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ruft an",
+        "preterite_3sg": "rief an",
+        "participle": "angerufen",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "The separable verb remains together as an infinitive after kannst; mich is accusative."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0184",
+      "locale": "de-DE",
+      "sentence": "Er ruft seinen Bruder jeden Sonntag an.",
+      "cloze": "ruft",
+      "answer": "ruft",
+      "accepted_answers": [],
+      "lemma": "anrufen",
+      "meaning": "calls by phone",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "ruft an",
+        "preterite_3sg": "rief an",
+        "participle": "angerufen",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "Third-person singular finite component; an closes the verb bracket."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0185",
+      "locale": "de-DE",
+      "sentence": "Ich stehe jeden Morgen früh auf.",
+      "cloze": "stehe",
+      "answer": "stehe",
+      "accepted_answers": [],
+      "lemma": "aufstehen",
+      "meaning": "get up",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "steht auf",
+        "preterite_3sg": "stand auf",
+        "participle": "aufgestanden",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "First-person singular finite component; auf stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0186",
+      "locale": "de-DE",
+      "sentence": "Am Sonntag stehe ich spät auf.",
+      "cloze": "auf",
+      "answer": "auf",
+      "accepted_answers": [],
+      "lemma": "aufstehen",
+      "meaning": "separable prefix of aufstehen: get up",
+      "part_of_speech": "separable verb prefix"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "steht auf",
+        "preterite_3sg": "stand auf",
+        "participle": "aufgestanden",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "Auf closes the verb bracket; stehe follows the initial time phrase."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0187",
+      "locale": "de-DE",
+      "sentence": "Musst du morgen früh aufstehen?",
+      "cloze": "aufstehen",
+      "answer": "aufstehen",
+      "accepted_answers": [],
+      "lemma": "aufstehen",
+      "meaning": "get up",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "steht auf",
+        "preterite_3sg": "stand auf",
+        "participle": "aufgestanden",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "The infinitive stays together at the end after musst."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0188",
+      "locale": "de-DE",
+      "sentence": "Das Kind steht um sieben auf.",
+      "cloze": "steht",
+      "answer": "steht",
+      "accepted_answers": [],
+      "lemma": "aufstehen",
+      "meaning": "gets up",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "steht auf",
+        "preterite_3sg": "stand auf",
+        "participle": "aufgestanden",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "Third-person singular finite component; auf closes the verb bracket."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0189",
+      "locale": "de-DE",
+      "sentence": "Wir kaufen nach der Arbeit ein.",
+      "cloze": "kaufen",
+      "answer": "kaufen",
+      "accepted_answers": [],
+      "lemma": "einkaufen",
+      "meaning": "do the shopping",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kauft ein",
+        "preterite_3sg": "kaufte ein",
+        "participle": "eingekauft",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "First-person plural finite component; the prefix ein stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0190",
+      "locale": "de-DE",
+      "sentence": "Ich muss noch für morgen einkaufen.",
+      "cloze": "einkaufen",
+      "answer": "einkaufen",
+      "accepted_answers": [],
+      "lemma": "einkaufen",
+      "meaning": "do the shopping",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kauft ein",
+        "preterite_3sg": "kaufte ein",
+        "participle": "eingekauft",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "The infinitive stays together at the end after muss."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0191",
+      "locale": "de-DE",
+      "sentence": "Kaufst du heute für uns ein?",
+      "cloze": "Kaufst",
+      "answer": "Kaufst",
+      "accepted_answers": [],
+      "lemma": "einkaufen",
+      "meaning": "do the shopping",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kauft ein",
+        "preterite_3sg": "kaufte ein",
+        "participle": "eingekauft",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "Second-person singular finite component begins the question; ein stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0192",
+      "locale": "de-DE",
+      "sentence": "Meine Eltern gehen samstags auf dem Markt einkaufen.",
+      "cloze": "einkaufen",
+      "answer": "einkaufen",
+      "accepted_answers": [],
+      "lemma": "einkaufen",
+      "meaning": "go shopping",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kauft ein",
+        "preterite_3sg": "kaufte ein",
+        "participle": "eingekauft",
+        "auxiliary": "haben",
+        "separable": true
+      },
+      "grammar": "Bare activity infinitive governed by gehen; einkaufen remains together at the end of the sentence."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0193",
+      "locale": "de-DE",
+      "sentence": "Meine Freundin kommt ins Kino mit.",
+      "cloze": "mit",
+      "answer": "mit",
+      "accepted_answers": [],
+      "lemma": "mitkommen",
+      "meaning": "separable prefix of mitkommen: come along",
+      "part_of_speech": "separable verb prefix"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt mit",
+        "preterite_3sg": "kam mit",
+        "participle": "mitgekommen",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "Mit closes the verb bracket; ins Kino gives the destination."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0194",
+      "locale": "de-DE",
+      "sentence": "Willst du morgen zum Markt mitkommen?",
+      "cloze": "mitkommen",
+      "answer": "mitkommen",
+      "accepted_answers": [],
+      "lemma": "mitkommen",
+      "meaning": "come along",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt mit",
+        "preterite_3sg": "kam mit",
+        "participle": "mitgekommen",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "The infinitive stays together at the end after willst."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0195",
+      "locale": "de-DE",
+      "sentence": "Wir kommen gern zum Essen mit.",
+      "cloze": "kommen",
+      "answer": "kommen",
+      "accepted_answers": [],
+      "lemma": "mitkommen",
+      "meaning": "come along",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt mit",
+        "preterite_3sg": "kam mit",
+        "participle": "mitgekommen",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "First-person plural finite component; mit stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0196",
+      "locale": "de-DE",
+      "sentence": "Kommt ihr heute zum Konzert mit?",
+      "cloze": "Kommt",
+      "answer": "Kommt",
+      "accepted_answers": [],
+      "lemma": "mitkommen",
+      "meaning": "come along",
+      "part_of_speech": "verb"
+    },
+    "language_specific": {
+      "verb": {
+        "present_3sg": "kommt mit",
+        "preterite_3sg": "kam mit",
+        "participle": "mitgekommen",
+        "auxiliary": "sein",
+        "separable": true
+      },
+      "grammar": "Second-person plural finite component begins the question; mit stands at the end."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0197",
+      "locale": "de-DE",
+      "sentence": "Die Schuhe stehen unter dem Tisch.",
+      "cloze": "Schuhe",
+      "answer": "Schuhe",
+      "accepted_answers": [],
+      "lemma": "Schuh",
+      "meaning": "shoes",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Schuhe"
+      },
+      "grammar": "Nominative plural subject of stehen.",
+      "pronunciation": "Schuhe: [ˈʃuːə]; sch is [ʃ], and the stressed [uː] is long and close."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0198",
+      "locale": "de-DE",
+      "sentence": "Ich nehme ein Stück Brot.",
+      "cloze": "Stück",
+      "answer": "Stück",
+      "accepted_answers": [],
+      "lemma": "Stück",
+      "meaning": "piece",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "das",
+        "plural": "Stücke"
+      },
+      "grammar": "Ein Stück Brot is an accusative quantity expression after nehme.",
+      "pronunciation": "Stück: [ʃtʏk]; initial st is [ʃt], and [ʏ] is a short rounded vowel."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0199",
+      "locale": "de-DE",
+      "sentence": "Die Bienen fliegen zu den Blumen.",
+      "cloze": "Bienen",
+      "answer": "Bienen",
+      "accepted_answers": [],
+      "lemma": "Biene",
+      "meaning": "bees",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "die",
+        "plural": "Bienen"
+      },
+      "grammar": "Nominative plural subject of fliegen.",
+      "pronunciation": "Bienen: [ˈbiːnən]; ie represents the long close vowel [iː]."
+    }
+  },
+  {
+    "common": {
+      "schema_version": 2,
+      "id": "de-00-0200",
+      "locale": "de-DE",
+      "sentence": "Unser Zug fährt um acht Uhr ab.",
+      "cloze": "Zug",
+      "answer": "Zug",
+      "accepted_answers": [],
+      "lemma": "Zug",
+      "meaning": "train",
+      "part_of_speech": "noun"
+    },
+    "language_specific": {
+      "noun": {
+        "article": "der",
+        "plural": "Züge"
+      },
+      "grammar": "Zug is the masculine nominative singular subject of fährt ab.",
+      "pronunciation": "Zug: [t͡suːk]; initial z is [t͡s], the stressed [uː] is long and close, and final g is devoiced to [k]."
+    }
+  }
+]
