@@ -1,0 +1,4 @@
+/.venv/
+/EXECUTOR.md
+__pycache__/
+*.py[cod]
