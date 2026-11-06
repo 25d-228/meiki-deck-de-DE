@@ -59,7 +59,7 @@ def check_card(card, stage):
         if key == 'noun':
             if not isinstance(value, dict) or not {'article', 'plural'} <= value.keys() or value.keys() - {'article', 'plural', 'genitive'}:
                 errors.append('incorrect noun support fields')
-            elif value['article'] not in {'der', 'die', 'das'} or any(not isinstance(v, str) or not v.strip() for v in value.values()):
+            elif value['article'] not in {'der', 'die', 'das', 'der/die'} or any(not isinstance(v, str) or not v.strip() for v in value.values()):
                 errors.append('invalid noun support')
         elif key == 'verb':
             if not isinstance(value, dict) or set(value) != {'present_3sg', 'preterite_3sg', 'participle', 'auxiliary', 'separable'}:
